@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253fd64c-5cf7-41c6-a86f-ddea33d33c0b" name="Changes" comment="Trying out LangGraph WIth Self rag and adaptive rag" />
+    <list default="true" id="253fd64c-5cf7-41c6-a86f-ddea33d33c0b" name="Changes" comment="Trying out LangGraph WIth Self rag and adaptive rag">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,27 +31,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.pytest in LangAgent.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chains.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_ingestion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ragflow_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reflection_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reflexion_main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sig9moid/study/Langchain/LangAgent&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest in LangAgent.executor": "Run",
+    "Python.chains.executor": "Run",
+    "Python.data_ingestion.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.ragflow_main.executor": "Run",
+    "Python.reflection_main.executor": "Run",
+    "Python.reflexion_main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/sig9moid/study/Langchain/LangAgent"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/RagFlow/graph/chains" />
       <recent name="$PROJECT_DIR$/RagFlow/graph" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.reflection_main">
     <configuration name="reflection_main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LangAgent" />
       <option name="ENV_FILES" value="" />
