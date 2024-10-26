@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253fd64c-5cf7-41c6-a86f-ddea33d33c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LangAgent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/chains/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/chains/generation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/chains/retrieval_grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/chains/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/chains/tests/test_chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/nodes/generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/nodes/grade_documents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/nodes/retrieve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/nodes/web_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/graph/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RagFlow/ingestion/data_ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ragflow_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflection/chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflection_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflexion/chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflexion/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflexion_main.py" afterDir="false" />
-    </list>
+    <list default="true" id="253fd64c-5cf7-41c6-a86f-ddea33d33c0b" name="Changes" comment="Trying out LangGraph WIth Self rag and adaptive rag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +49,7 @@
       <recent name="$PROJECT_DIR$/RagFlow/graph" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in LangAgent">
+  <component name="RunManager">
     <configuration name="reflection_main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LangAgent" />
       <option name="ENV_FILES" value="" />
@@ -140,7 +108,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -153,6 +121,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729404901064</updated>
     </task>
+    <task id="LOCAL-00001" summary="Trying out LangGraph WIth Self rag and adaptive rag">
+      <option name="closed" value="true" />
+      <created>1729925680274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729925680274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trying out LangGraph WIth Self rag and adaptive rag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying out LangGraph WIth Self rag and adaptive rag" />
   </component>
 </project>
